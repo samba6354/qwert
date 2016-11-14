@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "triggered from github"
+echo "triggered from github !!"
